@@ -1,1 +1,1 @@
-# Esp32-Mpu6050---Enviando-dados-do-mpu6050-para-o-Computador-em-CSV
+# Envio de dados do ESP32 integrado com o MPU6050 para o computador em formato CSV
