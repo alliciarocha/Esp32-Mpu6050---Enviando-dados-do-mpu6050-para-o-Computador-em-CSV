@@ -1,0 +1,1 @@
+# Esp32-Mpu6050---Enviando-dados-do-mpu6050-para-o-Computador-em-CSV
